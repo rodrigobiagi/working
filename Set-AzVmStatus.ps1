@@ -73,7 +73,6 @@ function Set-AzVmStatus {
         }
     }
 }
-Set-AzVmStatus -ResourceGroup "tbk_prd_infra" -VmName "tba-app-123" -Status "Stop"
 
 <#
 Command example:
